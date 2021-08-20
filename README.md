@@ -1,0 +1,2 @@
+# SnailsTestnet
+Testnet Snails (:
